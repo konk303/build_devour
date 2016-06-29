@@ -1,0 +1,19 @@
+{
+  "name": "build_devour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/konk303/build_devour.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/konk303/build_devour/issues"
+  },
+  "homepage": "https://github.com/konk303/build_devour#readme"
+}
